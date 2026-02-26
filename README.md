@@ -62,3 +62,4 @@ else
     Console.WriteLine("Número no válido, por favor ingrese un número válido");
 }
 // los otros ejercicos los he hecho en la computadora del lab
+[Portafolio](https://Ernesto070.github.io/portafolio)
